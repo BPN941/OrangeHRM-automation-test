@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-08T17:23:24 GMT+05:45" name="Default suite" finished-at="2025-02-08T17:23:35 GMT+05:45" duration-ms="11144">
+    <groups>
+    </groups>
+    <test started-at="2025-02-08T17:23:24 GMT+05:45" name="Default test" finished-at="2025-02-08T17:23:35 GMT+05:45" duration-ms="11144">
+      <class name="AutomationPractice.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AutomationPractice.Login@a1153bc]" started-at="2025-02-08T17:23:18 GMT+05:45" name="setup" finished-at="2025-02-08T17:23:24 GMT+05:45" duration-ms="6203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invaidlogin()[pri:1, instance:AutomationPractice.Login@a1153bc]" started-at="2025-02-08T17:23:24 GMT+05:45" name="invaidlogin" finished-at="2025-02-08T17:23:26 GMT+05:45" duration-ms="1381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invaidlogin -->
+        <test-method signature="login()[pri:2, instance:AutomationPractice.Login@a1153bc]" started-at="2025-02-08T17:23:26 GMT+05:45" name="login" finished-at="2025-02-08T17:23:26 GMT+05:45" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addemployee()[pri:3, instance:AutomationPractice.Login@a1153bc]" started-at="2025-02-08T17:23:26 GMT+05:45" name="addemployee" finished-at="2025-02-08T17:23:35 GMT+05:45" duration-ms="9557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addemployee -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:AutomationPractice.Login@a1153bc]" started-at="2025-02-08T17:23:35 GMT+05:45" name="exit" finished-at="2025-02-08T17:23:41 GMT+05:45" duration-ms="5136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- AutomationPractice.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
