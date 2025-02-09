@@ -6,8 +6,9 @@
       <class name="AutomationPractice.Login">
         <methods>
           <include name="setup"/>
-          <include name="addemployee"/>
           <include name="exit"/>
+          <include name="forgotpassword"/>
+          <include name="Buzz"/>
         </methods>
       </class> <!-- AutomationPractice.Login -->
     </classes>
